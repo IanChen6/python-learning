@@ -13,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled1$hanshudigui.coverage" NAME="hanshudigui Coverage Results" MODIFIED="1508495060451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geshihua" />
+    <SUITE FILE_PATH="coverage/untitled1$hanshudigui.coverage" NAME="hanshudigui Coverage Results" MODIFIED="1508495502332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geshihua" />
     <SUITE FILE_PATH="coverage/untitled1$fromat.coverage" NAME="fromat Coverage Results" MODIFIED="1508492384929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/geshihua" />
   </component>
   <component name="FileEditorManager">
@@ -105,8 +105,8 @@
       <file leaf-file-name="hanshudigui.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/geshihua/hanshudigui.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="494">
+              <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -624,13 +624,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/geshihua/hanshudigui.py</url>
-          <line>15</line>
+          <line>3</line>
           <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/geshihua/hanshudigui.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="43" />
@@ -994,8 +989,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/geshihua/hanshudigui.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="494">
+          <caret line="45" column="12" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding />
         </state>
       </provider>
